@@ -27,6 +27,16 @@ The project includes demand growth scenarios, decision rules and automated analy
 
 [View project](https://github.com/YuryBdS/capacity-planning-analysis)
 
+---
+
+### Business Rules Validator
+
+Rule-based validation engine designed to transform business requirements into structured, traceable and automated validations.
+
+The project demonstrates how operational rules can be translated into executable decision logic using Python, Pandas and GitHub Actions.
+
+[View project](https://github.com/YuryBdS/business-rules-validator)
+
 ## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/yury-batista-02209187/)
