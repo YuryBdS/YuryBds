@@ -11,27 +11,22 @@ My focus is transforming complex operational processes into clear, traceable and
 - Data Analysis
 - Operational Performance
 - Capacity Planning
-- Artificial Intelligence applied to Operations
+- Artificial Intelligence for Operations
 
 ## Current focus
 
 Building practical projects that connect business problems with data, automation and AI.
 
+## Featured Projects
+
+### Capacity Planning Analysis
+
+Operational capacity planning case using Python to evaluate workload, backlog, productivity and resource sizing.
+
+The project includes demand growth scenarios, decision rules and automated analysis using GitHub Actions.
+
+[View project](https://github.com/YuryBdS/capacity-planning-analysis)
+
 ## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/yury-batista-02209187/)
-
-<!--
-**YuryBdS/YuryBds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
